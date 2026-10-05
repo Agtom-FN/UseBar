@@ -7,9 +7,9 @@ A tiny menu-bar / system-tray app that shows your AI-tool usage at a glance.
 
 Pick which service to show from the menu. macOS (Intel **and** Apple Silicon) and Windows.
 
-```
-  ✳ S 6%  W 49%  F 34%          ➜ (cursor)   U 123/500
-```
+![UseBar showing Claude usage in the macOS menu bar](docs/demo-menubar.png)
+
+*Live in the macOS menu bar: the Claude mark + Session / Weekly / Fable percentages. Selecting Cursor shows `U 123/500` instead.*
 
 ## How it works
 
